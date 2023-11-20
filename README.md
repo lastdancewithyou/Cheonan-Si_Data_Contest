@@ -6,14 +6,17 @@
 모바일 버전 대시보드 : https://public.tableau.com/views/___16963172118000/1_?:language=ko-KR&:display_count=n&:origin=viz_share_link
 
 ## 시연 영상
-<Part 1>
-<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/c35ea1c8-725d-4904-9028-f78969dca488"/>
+<Part 1. 인구 대시보드>
 
-<Part 2>
-<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/728ac837-76a7-4595-bd95-f48bdf09985e"/>
+<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/9ee69ce9-77e4-433e-9a06-914342aafc5c"/>
 
-<Part 3>
-<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/d31c9f44-dc86-4ef2-ba38-5086dddc404a"/>
+<Part 2. 치안 대시보드>
+
+<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/39c56190-3d59-4c38-a4d0-556e6500fa47"/>
+
+<Part 3. 의료 대시보드>
+
+<img width="80%" src="https://github.com/lastdancewithyou/Cheonan-si_Data_Contest/assets/114273570/733be1eb-300c-40f5-aa1e-e9e8b82ecaea"/>
 
 ## 수상 관련 기사 링크
 http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=7&pkid=52915

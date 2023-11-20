@@ -3,3 +3,4 @@
 ## 대시보드 소개
 
 ## 수상 관련 기사 링크
+http://www.sejongpr.ac.kr/sejongnewspaperview.do?boardType=7&pkid=52915)http://www.sejongpr.ac.kr/sejongnewspaperview.do?boardType=7&pkid=52915

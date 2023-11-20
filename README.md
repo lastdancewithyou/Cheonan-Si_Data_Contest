@@ -20,3 +20,5 @@
 
 ## 수상 관련 기사 링크
 http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=7&pkid=52915
+
+### &#8251; 대시보드 제작에 사용된 태블로 파일은 별도로 업로드하지 않았습니다.

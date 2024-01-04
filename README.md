@@ -1,4 +1,4 @@
-# 천안시 데이터 기반 시각화 아이디어 공모전
+# 천안시 데이터 기반 시각화 아이디어 공모전 - 천안시청 주최
 
 ## 대시보드 소개
 메인 대시보드 : https://public.tableau.com/views/__16934925491250/1_?:language=ko-KR&:display_count=n&:origin=viz_share_link
